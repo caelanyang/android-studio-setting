@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constraint" />
       <item value="Decorate" />
       <item value="typeface" />
       <item value="Chronometer" />
@@ -50,7 +51,6 @@
       <item value="metrics" />
       <item value="execution" />
       <item value="yield" />
-      <item value="dex" />
     </histories>
   </component>
 </application>
