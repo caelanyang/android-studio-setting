@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="hkvpn.3g.net.cn" />
     <option name="PROXY_PORT" value="37853" />
     <option name="PROXY_AUTHENTICATION" value="true" />
