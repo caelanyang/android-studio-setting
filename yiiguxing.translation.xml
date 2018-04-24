@@ -1,8 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Adapters provide a binding from an app-specific data set to views that are displayed * within a {@link RecyclerView}" />
       <item value="intercept" />
     </histories>
   </component>
